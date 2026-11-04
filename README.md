@@ -446,7 +446,7 @@ kubectl rollout restart deployment flight-reservation-app -n flight-reservation
 
 # 👨‍💻 Author
 
-## Aniket Siraskar
+## Prasanna Darne              
 
 **DevOps Engineer**
 
